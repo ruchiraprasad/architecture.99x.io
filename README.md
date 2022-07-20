@@ -15,3 +15,5 @@ We invite you to add your case studies and share the experience with the outside
 
 ## For Everyone
 If you see any improvement in the content or you can also raise an issue using GitHub or send the Pull request with sufficient details of the improvement you made.
+
+Ruchira
